@@ -3,7 +3,7 @@ package cn.huangx.mvpsample4.base;
 /**
  * 功能说明：cn.huangx.mvpsample4.base
  * 作者：huangx on 2016/8/29 10:01
- * 邮箱：huangx@pycredit.cn
+ * 邮箱：549631030@qq.com
  */
 public abstract class BaseUseCase<Q extends BaseUseCase.RequestValues, P extends BaseUseCase.ResponseValue> {
 
